@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/ghostty-vt-dotnet.csproj" />
+  <Project Path="examples/raylib/ghostty-raylib.csproj" />
+</Solution>

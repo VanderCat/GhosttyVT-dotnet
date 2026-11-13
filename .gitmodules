@@ -1,0 +1,4 @@
+[submodule "vendor/ghostty"]
+	path = vendor/ghostty
+	url = https://github.com/ghostty-org/ghostty
+	branch = 108cacb17ed8990840cd14abfce43d8ed8503ca1
